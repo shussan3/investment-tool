@@ -1,0 +1,22 @@
+{
+    "Valuation Metrics": {
+        "Name": "Micron Technology, Inc.",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Market Cap": 99473096704,
+        "Current Price": 89.28,
+        "52-Week High": 157.54,
+        "52-Week Low": 79.15,
+        "Price-to-Book Ratio": 2.1938813,
+        "Dividend Yield": 0.0044,
+        "Revenue Growth": 0.933
+    },
+    "Performance Metrics": {
+        "Revenue Growth (YoY)": 0.933,
+        "Profit Margin": 0.03098,
+        "Gross Margin": 0.22353001,
+        "Operating Margin": 0.19703,
+        "Return on Assets (ROA)": 0.01165,
+        "Return on Equity (ROE)": 0.01743
+    }
+}
